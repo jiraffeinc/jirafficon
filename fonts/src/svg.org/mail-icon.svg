@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="14px" viewBox="0 0 16 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46 (44423) - http://www.bohemiancoding.com/sketch -->
+    <title>Mail Icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Components" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="SliceIcon" transform="translate(-125.000000, -56.000000)" fill="#000000">
+            <g id="Icons" transform="translate(46.000000, 54.000000)">
+                <g id="Icons/Mail-Icon" transform="translate(79.000000, 2.000000)">
+                    <path d="M13.993,14 L2.007,14 C0.901745579,13.9989108 0.00495082946,13.1052439 0,12 L0,2 C-3.25635425e-06,1.46835196 0.211671052,0.958580428 0.588259142,0.583305799 C0.964847232,0.208031171 1.47535522,-0.00186076814 2.007,-7.70494745e-14 L13.993,-7.70494745e-14 C15.0982544,0.00108921527 15.9950492,0.894756131 16,2 L16,12 C16.0000033,12.531648 15.7883289,13.0414196 15.4117409,13.4166942 C15.0351528,13.7919688 14.5246448,14.0018608 13.993,14 L13.993,14 L13.993,14 Z M14,12 L14,3.471 L9.055,8.561 C8.77362743,8.84281868 8.39173648,9.00118032 7.9935,9.00118032 C7.59526352,9.00118032 7.21337257,8.84281868 6.932,8.561 L2,3.483 L2,12 L14,12 L14,12 L14,12 Z M12.629,2 L3.359,2 L7.994,6.779 L12.629,2 L12.629,2 Z" id="Mail-Icon"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

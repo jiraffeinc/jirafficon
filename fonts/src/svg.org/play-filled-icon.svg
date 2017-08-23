@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="16px" viewBox="0 0 14 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46 (44423) - http://www.bohemiancoding.com/sketch -->
+    <title>Play Filled Icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Components" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="SliceIcon" transform="translate(-165.000000, -89.000000)" fill-rule="nonzero" fill="#000000">
+            <g id="Icons" transform="translate(46.000000, 54.000000)">
+                <g id="Icons/Play-Filled-Icon" transform="translate(119.000000, 35.000000)">
+                    <path d="M0,2.00540474 C0,0.451415809 1.69594248,-0.508439892 3.02899151,0.291080816 L13.0289915,6.28876501 C14.3236695,7.06527198 14.3236695,8.94090589 13.0289915,9.71741286 L3.02899151,15.715097 C1.69594248,16.5146178 0,15.5547621 0,14.0007731 L0,2.00540474 Z" id="Play-Filled-Icon"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

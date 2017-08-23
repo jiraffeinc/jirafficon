@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="12px" viewBox="0 0 16 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46 (44423) - http://www.bohemiancoding.com/sketch -->
+    <title>Ok Icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Components" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="SliceIcon" transform="translate(-204.000000, -57.000000)" fill="#000000">
+            <g id="Icons" transform="translate(46.000000, 54.000000)">
+                <g id="Icons/Ok-Icon" transform="translate(158.000000, 3.000000)">
+                    <path d="M5.00037496,12 C5.4013311,12 5.77828987,11.8423722 6.06025903,11.5570459 L15.707532,1.72417902 C16.0974893,1.32911182 16.0974893,0.690619371 15.707532,0.295552168 C15.3165747,-0.0985173895 14.683644,-0.0985173895 14.2936866,0.295552168 L5.00037496,9.77225994 L1.70706329,6.29555217 C1.31710594,5.90148261 0.684175168,5.90148261 0.293217929,6.29555217 C-0.0977393098,6.69061937 -0.0977393098,7.32911182 0.293217929,7.72417902 L3.93949099,11.5570459 C4.22345993,11.8423722 4.59841892,12 5.00037496,12 L5.00037496,12 Z" id="Ok-Icon"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

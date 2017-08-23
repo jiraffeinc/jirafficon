@@ -1,0 +1,129 @@
+@font-face {
+	font-family: "jirafficon";
+	src: url("jirafficon.eot?7603da7e30d9d9b9bbc12507c1d8cbcb?#iefix") format("embedded-opentype"),
+url("jirafficon.woff2?7603da7e30d9d9b9bbc12507c1d8cbcb") format("woff2"),
+url("jirafficon.woff?7603da7e30d9d9b9bbc12507c1d8cbcb") format("woff");
+}
+
+.jirafficon {
+	line-height: 1;
+}
+
+.jirafficon:before {
+	font-family: jirafficon !important;
+	font-style: normal;
+	font-weight: normal !important;
+	vertical-align: top;
+}
+
+.jirafficon-arrow-down:before {
+	content: "\f101";
+}
+.jirafficon-arrow-left:before {
+	content: "\f102";
+}
+.jirafficon-arrow-right:before {
+	content: "\f103";
+}
+.jirafficon-arrow-up:before {
+	content: "\f104";
+}
+.jirafficon-bag:before {
+	content: "\f105";
+}
+.jirafficon-bubble-filled:before {
+	content: "\f106";
+}
+.jirafficon-bubble:before {
+	content: "\f107";
+}
+.jirafficon-camera-filled:before {
+	content: "\f108";
+}
+.jirafficon-camera:before {
+	content: "\f109";
+}
+.jirafficon-cart:before {
+	content: "\f10a";
+}
+.jirafficon-ceo:before {
+	content: "\f10b";
+}
+.jirafficon-check-circle-filled:before {
+	content: "\f10c";
+}
+.jirafficon-check-circle:before {
+	content: "\f10d";
+}
+.jirafficon-check:before {
+	content: "\f10e";
+}
+.jirafficon-close-circle-filled:before {
+	content: "\f10f";
+}
+.jirafficon-close-circle:before {
+	content: "\f110";
+}
+.jirafficon-close:before {
+	content: "\f111";
+}
+.jirafficon-cto-filled:before {
+	content: "\f112";
+}
+.jirafficon-face-cto:before {
+	content: "\f113";
+}
+.jirafficon-face-normal:before {
+	content: "\f114";
+}
+.jirafficon-face-sad:before {
+	content: "\f115";
+}
+.jirafficon-face-smile:before {
+	content: "\f116";
+}
+.jirafficon-fb:before {
+	content: "\f117";
+}
+.jirafficon-gear:before {
+	content: "\f118";
+}
+.jirafficon-google:before {
+	content: "\f119";
+}
+.jirafficon-heart-filled:before {
+	content: "\f11a";
+}
+.jirafficon-heart:before {
+	content: "\f11b";
+}
+.jirafficon-loupe:before {
+	content: "\f11c";
+}
+.jirafficon-mail:before {
+	content: "\f11d";
+}
+.jirafficon-menu:before {
+	content: "\f11e";
+}
+.jirafficon-pencil-filled:before {
+	content: "\f11f";
+}
+.jirafficon-pencil:before {
+	content: "\f120";
+}
+.jirafficon-play-filled:before {
+	content: "\f121";
+}
+.jirafficon-play:before {
+	content: "\f122";
+}
+.jirafficon-ribon-filled:before {
+	content: "\f123";
+}
+.jirafficon-ribon:before {
+	content: "\f124";
+}
+.jirafficon-twitter:before {
+	content: "\f125";
+}

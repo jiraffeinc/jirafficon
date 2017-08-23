@@ -1,0 +1,13 @@
+[ignore]
+<PROJECT_ROOT>/vendor/.*
+
+[include]
+
+[libs]
+💩 global types
+./js/flowtyped
+
+[options]
+esproposal.decorators=ignore
+unsafe.enable_getters_and_setters=true
+module.name_mapper='^/src/\(.*\)$' -> '<PROJECT_ROOT>/js/src/\1'

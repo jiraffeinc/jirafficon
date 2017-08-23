@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="9px" height="16px" viewBox="0 0 9 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46 (44423) - http://www.bohemiancoding.com/sketch -->
+    <title>Arrow Right Icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Components" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="SliceIcon" transform="translate(-288.000000, -54.000000)" fill="#000000">
+            <g id="Icons" transform="translate(46.000000, 54.000000)">
+                <g id="Icons/Arrow-Right-Icon" transform="translate(242.000000, 0.000000)">
+                    <path d="M8.55704586,9.0615 C8.84237218,8.7775 9,8.4025 9,8.0005 C9,7.5995 8.84237218,7.2225 8.55704586,6.9405 L1.72417902,0.2925 C1.32911182,-0.0975 0.690619371,-0.0975 0.295552168,0.2925 C-0.0985173895,0.6835 -0.0985173895,1.3165 0.295552168,1.7065 L6.77225994,8.0005 L0.295552168,14.2945 C-0.0985173895,14.6845 -0.0985173895,15.3175 0.295552168,15.7085 C0.690619371,16.0995 1.32911182,16.0995 1.72417902,15.7085 L8.55704586,9.0615 L8.55704586,9.0615 Z" id="Arrow-Right-Icon"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

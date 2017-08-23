@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46 (44423) - http://www.bohemiancoding.com/sketch -->
+    <title>Ok Circle Icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Components" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="SliceIcon" transform="translate(-202.000000, -90.000000)" fill="#000000">
+            <g id="Icons" transform="translate(46.000000, 54.000000)">
+                <g id="Icons/Ok-Circle-Icon" transform="translate(156.000000, 36.000000)">
+                    <path d="M8,16 C12.418278,16 16,12.418278 16,8 C16,3.581722 12.418278,0 8,0 C3.581722,0 0,3.581722 0,8 C0,12.418278 3.581722,16 8,16 L8,16 L8,16 L8,16 Z M8,14 C11.313708,14 14,11.3137085 14,8 C14,4.6862915 11.313708,2 8,2 C4.686292,2 2,4.6862915 2,8 C2,11.3137085 4.686292,14 8,14 L8,14 L8,14 L8,14 Z M7.000375,11 C7.401331,11 7.77829,10.8423722 8.060259,10.5570459 L11.707532,6.724179 C12.097489,6.3291118 12.097489,5.6906194 11.707532,5.2955522 C11.316575,4.9014826 10.683644,4.9014826 10.293687,5.2955522 L7.000375,8.7722599 L5.707063,7.2955522 C5.317106,6.9014826 4.684175,6.9014826 4.293218,7.2955522 C3.902261,7.6906194 3.902261,8.3291118 4.293218,8.724179 L5.939491,10.5570459 C6.22346,10.8423722 6.598419,11 7.000375,11 L7.000375,11 L7.000375,11 L7.000375,11 Z" id="Ok-Circle-Icon"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

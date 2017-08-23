@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <title>{{fontName}}</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <style>
+      body {
+        font-family: sans-serif;
+        margin: 0;
+        padding: 10px 20px;
+      }
+
+      .preview {
+        line-height: 2em;
+        display: inline-block;
+        min-width: 300px
+      }
+
+      .preview__icon {
+        display: inline-block;
+        text-align: center;
+      }
+
+      .{{fontName}} {
+        display: inline-block;
+        font-size: 30px;
+      }
+
+      {{{styles}}}
+    </style>
+  </head>
+  <body>
+    <h1>{{fontName}}</h1>
+    {{#each names}}
+    <div class="preview">
+      <span class="preview__icon">
+        <span class="jirafficon {{../classPrefix}}{{this}}"></span>
+      </span>
+      <span>{{this}}</span>
+    </div>
+    {{/each}}
+  </body>
+</html>
+

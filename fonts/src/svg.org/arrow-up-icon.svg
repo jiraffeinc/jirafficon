@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="9px" viewBox="0 0 16 9" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46 (44423) - http://www.bohemiancoding.com/sketch -->
+    <title>Arrow Up Icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Components" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="SliceIcon" transform="translate(-323.000000, -58.000000)" fill="#000000">
+            <g id="Icons" transform="translate(46.000000, 54.000000)">
+                <g id="Icons/Arrow-Up-Icon" transform="translate(277.000000, 4.000000)">
+                    <path d="M8.00037496,9.09494702e-13 C8.4013311,9.09494702e-13 8.77828987,0.157627823 9.06025903,0.442954136 L15.707532,7.27582098 C16.0974893,7.67088818 16.0974893,8.30938063 15.707532,8.70444783 C15.3165747,9.09851739 14.683644,9.09851739 14.2936866,8.70444783 L8.00037496,2.22774006 L1.70706329,8.70444783 C1.31710594,9.09851739 0.684175168,9.09851739 0.293217929,8.70444783 C-0.0977393098,8.30938063 -0.0977393098,7.67088818 0.293217929,7.27582098 L6.93949099,0.442954136 C7.22345993,0.157627823 7.59841892,9.09494702e-13 8.00037496,9.09494702e-13 L8.00037496,9.09494702e-13 Z" id="Arrow-Up-Icon"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

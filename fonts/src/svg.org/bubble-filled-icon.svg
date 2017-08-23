@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46 (44423) - http://www.bohemiancoding.com/sketch -->
+    <title>Bubble Filled Icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Components" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="SliceIcon" transform="translate(-85.000000, -123.000000)" fill="#000000">
+            <g id="Icons" transform="translate(46.000000, 54.000000)">
+                <g id="Icons/Bubble-Filled-Icon" transform="translate(39.000000, 69.000000)">
+                    <path d="M15.7371749,15.7039442 C15.9944342,15.4467646 16.092061,15.0704033 15.9922369,14.7206549 C15.8924128,14.3709064 15.1253781,11.6941009 15.1263803,11.6850844 C16.9449039,8.18312162 15.9368918,3.87861168 12.7524051,1.54750706 C9.56791835,-0.783597565 5.15867789,-0.444619063 2.36817628,2.34583737 C-0.422325323,5.13629381 -0.760114112,9.54426772 1.57264787,12.7270833 C3.90540985,15.9098989 8.21154946,16.9163346 11.7140633,15.0973462 L14.7535809,15.9589272 C15.1034377,16.0587204 15.4799156,15.9611238 15.7371749,15.7039442 Z" id="Bubble-Filled-Icon"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

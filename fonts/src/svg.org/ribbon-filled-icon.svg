@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="16px" viewBox="0 0 12 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46 (44423) - http://www.bohemiancoding.com/sketch -->
+    <title>Ribbon Filled Icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Components" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="SliceIcon" transform="translate(-88.000000, -89.000000)" fill="#000000">
+            <g id="Icons" transform="translate(46.000000, 54.000000)">
+                <g id="Icons/Ribbon-Filled-Icon" transform="translate(41.000000, 35.000000)">
+                    <path d="M1,14.379 C0.954888262,14.961091 1.25027647,15.5168087 1.75800351,15.8050417 C2.26573055,16.0932748 2.89430303,16.0620831 3.371,15.725 L7,13.57 L10.625,15.725 C11.1020739,16.0627886 11.7313868,16.0944385 12.2399444,15.8062202 C12.748502,15.5180019 13.0446811,14.9618415 13,14.379 L13,2.005 C13,0.9004305 12.1045695,0.005 11,0.005 L3,0.005 C1.8954305,0.005 1,0.9004305 1,2.005 L1,14.379 L1,14.379 Z" id="Ribbon-Filled-Icon"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

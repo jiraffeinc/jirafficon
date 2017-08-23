@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="9px" viewBox="0 0 16 9" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46 (44423) - http://www.bohemiancoding.com/sketch -->
+    <title>Arrow Down Icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Components" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="SliceIcon" transform="translate(-362.000000, -58.000000)" fill="#000000">
+            <g id="Icons" transform="translate(46.000000, 54.000000)">
+                <g id="Icons/Arrow-Down-Icon" transform="translate(316.000000, 4.000000)">
+                    <path d="M12.5,4.49962504 C12.5,4.0986689 12.3423722,3.72171013 12.0570459,3.43974097 L5.22417902,-3.20753199 C4.82911182,-3.59748934 4.19061937,-3.59748934 3.79555217,-3.20753199 C3.40148261,-2.81657475 3.40148261,-2.18364398 3.79555217,-1.79368663 L10.2722599,4.49962504 L3.79555217,10.7929367 C3.40148261,11.1828941 3.40148261,11.8158248 3.79555217,12.2067821 C4.19061937,12.5977393 4.82911182,12.5977393 5.22417902,12.2067821 L12.0570459,5.56050901 C12.3423722,5.27654007 12.5,4.90158108 12.5,4.49962504 Z" id="Arrow-Down-Icon" transform="translate(8.000000, 4.500000) rotate(-270.000000) translate(-8.000000, -4.500000) "></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
