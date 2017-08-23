@@ -3,7 +3,7 @@ const fs = require('fs')
 const _ = require('lodash')
 
 // options
-const svgSourcePath = 'fonts/src/svg'
+const svgSourcePath = 'src/svg'
 
 function doGenerate() {
   createSVGFileList(svgSourcePath).then((paths) => {
@@ -15,7 +15,7 @@ function doGenerate() {
 function generateFont(paths){
   webfontsGenerator({
     files: paths,
-    dest: 'fonts/dest/',
+    dest: 'fonts/',
     fontName: 'jirafficon',
     html: true,
     htmlTemplate: 'fonts/src/templates/html.hrb',
