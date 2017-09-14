@@ -18,7 +18,7 @@ function generateFont(paths){
     dest: 'fonts/',
     fontName: 'jirafficon',
     html: true,
-    htmlTemplate: 'fonts/src/templates/html.hrb',
+    htmlTemplate: 'src/templates/html.hrb',
     templateOptions: {
       classPrefix: 'jirafficon-',
       baseSelector: '.jirafficon',

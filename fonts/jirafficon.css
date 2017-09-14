@@ -1,8 +1,8 @@
 @font-face {
 	font-family: "jirafficon";
-	src: url("jirafficon.eot?f718ac298767022e2e21052f7acdabc1?#iefix") format("embedded-opentype"),
-url("jirafficon.woff2?f718ac298767022e2e21052f7acdabc1") format("woff2"),
-url("jirafficon.woff?f718ac298767022e2e21052f7acdabc1") format("woff");
+	src: url("jirafficon.eot?a9896befb1336ff15b4af3c12d1cd3dc?#iefix") format("embedded-opentype"),
+url("jirafficon.woff2?a9896befb1336ff15b4af3c12d1cd3dc") format("woff2"),
+url("jirafficon.woff?a9896befb1336ff15b4af3c12d1cd3dc") format("woff");
 }
 
 .jirafficon {
@@ -70,60 +70,66 @@ url("jirafficon.woff?f718ac298767022e2e21052f7acdabc1") format("woff");
 .jirafficon-cto-filled:before {
 	content: "\f112";
 }
-.jirafficon-face-cto:before {
+.jirafficon-cutted-tag-thin:before {
 	content: "\f113";
 }
-.jirafficon-face-normal:before {
+.jirafficon-face-cto:before {
 	content: "\f114";
 }
-.jirafficon-face-sad:before {
+.jirafficon-face-normal:before {
 	content: "\f115";
 }
-.jirafficon-face-smile:before {
+.jirafficon-face-sad:before {
 	content: "\f116";
 }
-.jirafficon-fb:before {
+.jirafficon-face-smile:before {
 	content: "\f117";
 }
-.jirafficon-gear:before {
+.jirafficon-fb:before {
 	content: "\f118";
 }
-.jirafficon-google:before {
+.jirafficon-gear:before {
 	content: "\f119";
 }
-.jirafficon-heart-filled:before {
+.jirafficon-google:before {
 	content: "\f11a";
 }
-.jirafficon-heart:before {
+.jirafficon-heart-filled:before {
 	content: "\f11b";
 }
-.jirafficon-loupe:before {
+.jirafficon-heart:before {
 	content: "\f11c";
 }
-.jirafficon-mail:before {
+.jirafficon-loupe:before {
 	content: "\f11d";
 }
-.jirafficon-menu:before {
+.jirafficon-mail:before {
 	content: "\f11e";
 }
-.jirafficon-pencil-filled:before {
+.jirafficon-menu:before {
 	content: "\f11f";
 }
-.jirafficon-pencil:before {
+.jirafficon-pencil-filled:before {
 	content: "\f120";
 }
-.jirafficon-play-filled:before {
+.jirafficon-pencil:before {
 	content: "\f121";
 }
-.jirafficon-play:before {
+.jirafficon-play-filled:before {
 	content: "\f122";
 }
-.jirafficon-ribon-filled:before {
+.jirafficon-play:before {
 	content: "\f123";
 }
-.jirafficon-ribon:before {
+.jirafficon-ribon-filled:before {
 	content: "\f124";
 }
-.jirafficon-twitter:before {
+.jirafficon-ribon:before {
 	content: "\f125";
+}
+.jirafficon-stop-thin:before {
+	content: "\f126";
+}
+.jirafficon-twitter:before {
+	content: "\f127";
 }
