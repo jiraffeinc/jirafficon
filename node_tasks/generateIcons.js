@@ -55,6 +55,9 @@ function createSVGFileList(dir){
 
 function duplicateScss(){
   fs.createReadStream('./fonts/jirafficon.css', 'utf8')
+    .on('error', err => {
+      console.log('Fail!', err)
+    })
     .pipe(fs.createWriteStream('./fonts/jirafficon.scss', 'utf8'))
 }
 
