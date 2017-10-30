@@ -1,8 +1,8 @@
 @font-face {
 	font-family: "jirafficon";
-	src: url("jirafficon.eot?d23c24a67a127449f8ce944a414299f4?#iefix") format("embedded-opentype"),
-url("jirafficon.woff2?d23c24a67a127449f8ce944a414299f4") format("woff2"),
-url("jirafficon.woff?d23c24a67a127449f8ce944a414299f4") format("woff");
+	src: url("jirafficon.eot?c0b5070d5978eab8448181809311bd8d?#iefix") format("embedded-opentype"),
+url("jirafficon.woff2?c0b5070d5978eab8448181809311bd8d") format("woff2"),
+url("jirafficon.woff?c0b5070d5978eab8448181809311bd8d") format("woff");
 }
 
 .jirafficon {
@@ -127,18 +127,21 @@ url("jirafficon.woff?d23c24a67a127449f8ce944a414299f4") format("woff");
 .jirafficon-play:before {
 	content: "\f125";
 }
-.jirafficon-ribon-filled:before {
+.jirafficon-question:before {
 	content: "\f126";
 }
-.jirafficon-ribon:before {
+.jirafficon-ribon-filled:before {
 	content: "\f127";
 }
-.jirafficon-shop:before {
+.jirafficon-ribon:before {
 	content: "\f128";
 }
-.jirafficon-stop-thin:before {
+.jirafficon-shop:before {
 	content: "\f129";
 }
-.jirafficon-twitter:before {
+.jirafficon-stop-thin:before {
 	content: "\f12a";
+}
+.jirafficon-twitter:before {
+	content: "\f12b";
 }
