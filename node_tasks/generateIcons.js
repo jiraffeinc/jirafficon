@@ -27,6 +27,7 @@ function generateFont(paths){
     if (error) {
       console.log('Fail!', error)
     } else {
+      duplicateScss()
       console.log('Done!')
     }
   })
@@ -51,4 +52,10 @@ function createSVGFileList(dir){
     console.log(err)
   })
 }
+
+function duplicateScss(){
+  fs.createReadStream('./fonts/jirafficon.css', 'utf8')
+    .pipe(fs.createWriteStream('./fonts/jirafficon.scss', 'utf8'))
+}
+
 doGenerate();
