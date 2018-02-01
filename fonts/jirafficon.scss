@@ -1,8 +1,8 @@
 @font-face {
 	font-family: "jirafficon";
-	src: url("jirafficon.eot?d7f0761ee9fc58212577dfd3d0b57e7c?#iefix") format("embedded-opentype"),
-url("jirafficon.woff2?d7f0761ee9fc58212577dfd3d0b57e7c") format("woff2"),
-url("jirafficon.woff?d7f0761ee9fc58212577dfd3d0b57e7c") format("woff");
+	src: url("jirafficon.eot?38fc519a564282dc3b2f3ce973aabc20?#iefix") format("embedded-opentype"),
+url("jirafficon.woff2?38fc519a564282dc3b2f3ce973aabc20") format("woff2"),
+url("jirafficon.woff?38fc519a564282dc3b2f3ce973aabc20") format("woff");
 }
 
 .jirafficon {
@@ -130,33 +130,39 @@ url("jirafficon.woff?d7f0761ee9fc58212577dfd3d0b57e7c") format("woff");
 .jirafficon-play:before {
 	content: "\f126";
 }
-.jirafficon-question:before {
+.jirafficon-plus:before {
 	content: "\f127";
 }
-.jirafficon-question_question:before {
+.jirafficon-question:before {
 	content: "\f128";
 }
-.jirafficon-ribon-filled:before {
+.jirafficon-question_question:before {
 	content: "\f129";
 }
-.jirafficon-ribon:before {
+.jirafficon-ribon-filled:before {
 	content: "\f12a";
 }
-.jirafficon-scroll-down:before {
+.jirafficon-ribon:before {
 	content: "\f12b";
 }
-.jirafficon-scroll-up:before {
+.jirafficon-scroll-down:before {
 	content: "\f12c";
 }
-.jirafficon-shop:before {
+.jirafficon-scroll-up:before {
 	content: "\f12d";
 }
-.jirafficon-stop-thin:before {
+.jirafficon-shop:before {
 	content: "\f12e";
 }
-.jirafficon-triangle:before {
+.jirafficon-stop-thin:before {
 	content: "\f12f";
 }
-.jirafficon-twitter:before {
+.jirafficon-trash:before {
 	content: "\f130";
+}
+.jirafficon-triangle:before {
+	content: "\f131";
+}
+.jirafficon-twitter:before {
+	content: "\f132";
 }
