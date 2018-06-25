@@ -1,8 +1,8 @@
 @font-face {
 	font-family: "jirafficon";
-	src: url("jirafficon.eot?925ddb5d205bf224d17089a7c1024339?#iefix") format("embedded-opentype"),
-url("jirafficon.woff2?925ddb5d205bf224d17089a7c1024339") format("woff2"),
-url("jirafficon.woff?925ddb5d205bf224d17089a7c1024339") format("woff");
+	src: url("jirafficon.eot?3f09f538c384333dd74b30db88e2432d?#iefix") format("embedded-opentype"),
+url("jirafficon.woff2?3f09f538c384333dd74b30db88e2432d") format("woff2"),
+url("jirafficon.woff?3f09f538c384333dd74b30db88e2432d") format("woff");
 }
 
 .jirafficon {
@@ -186,4 +186,10 @@ url("jirafficon.woff?925ddb5d205bf224d17089a7c1024339") format("woff");
 }
 .jirafficon-warning:before {
 	content: "\f139";
+}
+.jirafficon-zoom-in:before {
+	content: "\f13a";
+}
+.jirafficon-zoom-out:before {
+	content: "\f13b";
 }
