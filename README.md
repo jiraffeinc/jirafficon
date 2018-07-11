@@ -7,6 +7,11 @@ common icon font for jiraffe
 **※パスが重なっていたりするとバグります。**
 
 `src/svg/` 以下にsvgとしてアートボードを書き出します
+file名をアイコン名にしてください。
+### ex...
+ファイル名を `tel.svg` とすると、
+`.jirafficon-tel` で呼び出せるようになります
+
 
 ## Generate Icon Font
 ターミナルで下記コマンドを実行
