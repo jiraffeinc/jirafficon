@@ -1,6 +1,6 @@
 # jirafficon
 common icon font for jiraffe
-
+[!https://img.shields.io/badge/jirafficon-click_to_see_icons-ffb600.svg?style=for-the-badge](https://jiraffeinc.github.io/jirafficon/docs/index.html)
 ## Usage
 ## アイコンのデザイン
 `src/ai/fonts.ai` にアートボードを追加し、アイコンをデザインする
@@ -20,7 +20,7 @@ file名をアイコン名にしてください。
 ```
 
 ## 確認
-`fonts/jirafficon.html` をブラウザで開いて正しく表示されていることを確認してください
+`docs/index.html` をブラウザで開いて正しく表示されていることを確認してください
 
 ## push
 `package.json` の `"version"` 項目の数字をあげて下さい
