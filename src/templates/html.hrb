@@ -27,8 +27,8 @@
         font-size: 30px;
       }
 
-      {{{styles}}}
     </style>
+    <link rel="stylesheet" href="../fonts/{{fontName}}.css" />
   </head>
   <body>
     <h1>{{fontName}}</h1>

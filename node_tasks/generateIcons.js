@@ -1,7 +1,7 @@
 const webfontsGenerator = require('webfonts-generator');
 const fs = require('fs')
 const _ = require('lodash')
-
+const path = require('path')
 // options
 const svgSourcePath = 'src/svg'
 
@@ -15,10 +15,11 @@ function doGenerate() {
 function generateFont(paths){
   webfontsGenerator({
     files: paths,
-    dest: 'fonts/',
+    dest: path.join('fonts'),
     fontName: 'jirafficon',
     html: true,
     htmlTemplate: 'src/templates/html.hrb',
+    htmlDest: path.join('docs', 'index.html'),
     templateOptions: {
       classPrefix: 'jirafficon-',
       baseSelector: '.jirafficon',
