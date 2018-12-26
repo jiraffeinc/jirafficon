@@ -1,6 +1,6 @@
 # jirafficon
-common icon font for jiraffe
 [![Jirafficon docs](https://img.shields.io/badge/jirafficon-click_to_see_icons-ffb600.svg?style=for-the-badge)](https://jiraffeinc.github.io/jirafficon/docs/index.html)
+* common icon font for jiraffe
 ## Usage
 ## アイコンのデザイン
 `src/ai/fonts.ai` にアートボードを追加し、アイコンをデザインする
