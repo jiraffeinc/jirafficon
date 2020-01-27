@@ -1,10 +1,11 @@
 {
   "name": "jirafficon",
-  "version": "1.0.17",
+  "version": "1.0.18",
   "main": "index.js",
   "license": "MIT",
   "scripts": {
-    "generate-icons": "node node_tasks/generateIcons.js"
+    "generate-icons": "node node_tasks/generateIcons.js",
+    "view-jirafficon": "open docs/index.html"
   },
   "devDependencies": {
     "webfonts-generator": "^0.4.0"
