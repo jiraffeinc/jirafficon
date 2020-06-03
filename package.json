@@ -1,8 +1,7 @@
 {
   "name": "jirafficon",
-  "version": "1.0.22",
+  "version": "1.0.23",
   "main": "index.js",
-  "license": "MIT",
   "scripts": {
     "generate-icons": "node node_tasks/generateIcons.js",
     "view-jirafficon": "open docs/index.html"
