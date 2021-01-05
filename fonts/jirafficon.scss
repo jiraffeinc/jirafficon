@@ -1,8 +1,8 @@
 @font-face {
 	font-family: "jirafficon";
-	src: url("jirafficon.eot?991027774a83ff2fc201030510f5e95d?#iefix") format("embedded-opentype"),
-url("jirafficon.woff2?991027774a83ff2fc201030510f5e95d") format("woff2"),
-url("jirafficon.woff?991027774a83ff2fc201030510f5e95d") format("woff");
+	src: url("jirafficon.eot?15dafc267ffaf2727a56068852bf62de?#iefix") format("embedded-opentype"),
+url("jirafficon.woff2?15dafc267ffaf2727a56068852bf62de") format("woff2"),
+url("jirafficon.woff?15dafc267ffaf2727a56068852bf62de") format("woff");
 }
 
 .jirafficon {
@@ -250,27 +250,30 @@ url("jirafficon.woff?991027774a83ff2fc201030510f5e95d") format("woff");
 .jirafficon-storage:before {
 	content: "\f14e";
 }
-.jirafficon-tel:before {
+.jirafficon-tab:before {
 	content: "\f14f";
 }
-.jirafficon-track:before {
+.jirafficon-tel:before {
 	content: "\f150";
 }
-.jirafficon-trash:before {
+.jirafficon-track:before {
 	content: "\f151";
 }
-.jirafficon-triangle:before {
+.jirafficon-trash:before {
 	content: "\f152";
 }
-.jirafficon-twitter:before {
+.jirafficon-triangle:before {
 	content: "\f153";
 }
-.jirafficon-warning:before {
+.jirafficon-twitter:before {
 	content: "\f154";
 }
-.jirafficon-zoom-in:before {
+.jirafficon-warning:before {
 	content: "\f155";
 }
-.jirafficon-zoom-out:before {
+.jirafficon-zoom-in:before {
 	content: "\f156";
+}
+.jirafficon-zoom-out:before {
+	content: "\f157";
 }
