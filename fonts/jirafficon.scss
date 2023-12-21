@@ -1,8 +1,8 @@
 @font-face {
 	font-family: "jirafficon";
-	src: url("jirafficon.eot?96642e9745a1766b64271b38a40d3491?#iefix") format("embedded-opentype"),
-url("jirafficon.woff2?96642e9745a1766b64271b38a40d3491") format("woff2"),
-url("jirafficon.woff?96642e9745a1766b64271b38a40d3491") format("woff");
+	src: url("jirafficon.eot?c89780335a3149c2afb344caae75de91?#iefix") format("embedded-opentype"),
+url("jirafficon.woff2?c89780335a3149c2afb344caae75de91") format("woff2"),
+url("jirafficon.woff?c89780335a3149c2afb344caae75de91") format("woff");
 }
 
 .jirafficon {
@@ -220,120 +220,129 @@ url("jirafficon.woff?96642e9745a1766b64271b38a40d3491") format("woff");
 .jirafficon-pencil:before {
 	content: "\f144";
 }
-.jirafficon-picture:before {
+.jirafficon-person-filled:before {
 	content: "\f145";
 }
-.jirafficon-play-filled:before {
+.jirafficon-person:before {
 	content: "\f146";
 }
-.jirafficon-play:before {
+.jirafficon-picture:before {
 	content: "\f147";
 }
-.jirafficon-plus:before {
+.jirafficon-play-filled:before {
 	content: "\f148";
 }
-.jirafficon-present-box-filled:before {
+.jirafficon-play:before {
 	content: "\f149";
 }
-.jirafficon-present-box-thin:before {
+.jirafficon-plus:before {
 	content: "\f14a";
 }
-.jirafficon-question-circle:before {
+.jirafficon-present-box-filled:before {
 	content: "\f14b";
 }
-.jirafficon-question:before {
+.jirafficon-present-box-thin:before {
 	content: "\f14c";
 }
-.jirafficon-question_question:before {
+.jirafficon-question-circle:before {
 	content: "\f14d";
 }
-.jirafficon-review:before {
+.jirafficon-question:before {
 	content: "\f14e";
 }
-.jirafficon-ribon-filled:before {
+.jirafficon-question_question:before {
 	content: "\f14f";
 }
-.jirafficon-ribon:before {
+.jirafficon-review:before {
 	content: "\f150";
 }
-.jirafficon-rotate-left:before {
+.jirafficon-ribon-filled:before {
 	content: "\f151";
 }
-.jirafficon-rotate-right:before {
+.jirafficon-ribon:before {
 	content: "\f152";
 }
-.jirafficon-scroll-down:before {
+.jirafficon-rotate-left:before {
 	content: "\f153";
 }
-.jirafficon-scroll-up:before {
+.jirafficon-rotate-right:before {
 	content: "\f154";
 }
-.jirafficon-security:before {
+.jirafficon-scroll-down:before {
 	content: "\f155";
 }
-.jirafficon-shop-board:before {
+.jirafficon-scroll-up:before {
 	content: "\f156";
 }
-.jirafficon-shop:before {
+.jirafficon-security:before {
 	content: "\f157";
 }
-.jirafficon-sim:before {
+.jirafficon-shop-board-filled:before {
 	content: "\f158";
 }
-.jirafficon-smartphone:before {
+.jirafficon-shop-board:before {
 	content: "\f159";
 }
-.jirafficon-sort:before {
+.jirafficon-shop:before {
 	content: "\f15a";
 }
-.jirafficon-star-filled:before {
+.jirafficon-sim:before {
 	content: "\f15b";
 }
-.jirafficon-star:before {
+.jirafficon-smartphone:before {
 	content: "\f15c";
 }
-.jirafficon-stop-thin:before {
+.jirafficon-sort:before {
 	content: "\f15d";
 }
-.jirafficon-storage:before {
+.jirafficon-star-filled:before {
 	content: "\f15e";
 }
-.jirafficon-tab:before {
+.jirafficon-star:before {
 	content: "\f15f";
 }
-.jirafficon-tel:before {
+.jirafficon-stop-thin:before {
 	content: "\f160";
 }
-.jirafficon-thumbs-down:before {
+.jirafficon-storage:before {
 	content: "\f161";
 }
-.jirafficon-thumbs-up:before {
+.jirafficon-tab:before {
 	content: "\f162";
 }
-.jirafficon-track:before {
+.jirafficon-tel:before {
 	content: "\f163";
 }
-.jirafficon-trash:before {
+.jirafficon-thumbs-down:before {
 	content: "\f164";
 }
-.jirafficon-triangle:before {
+.jirafficon-thumbs-up:before {
 	content: "\f165";
 }
-.jirafficon-twitter:before {
+.jirafficon-track:before {
 	content: "\f166";
 }
-.jirafficon-vault-filled:before {
+.jirafficon-trash:before {
 	content: "\f167";
 }
-.jirafficon-vault:before {
+.jirafficon-triangle:before {
 	content: "\f168";
 }
-.jirafficon-warning:before {
+.jirafficon-twitter:before {
 	content: "\f169";
 }
-.jirafficon-zoom-in:before {
+.jirafficon-vault-filled:before {
 	content: "\f16a";
 }
-.jirafficon-zoom-out:before {
+.jirafficon-vault:before {
 	content: "\f16b";
+}
+.jirafficon-warning:before {
+	content: "\f16c";
+}
+.jirafficon-zoom-in:before {
+	content: "\f16d";
+}
+.jirafficon-zoom-out:before {
+	content: "\f16e";
 }
