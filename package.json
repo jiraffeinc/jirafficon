@@ -1,6 +1,6 @@
 {
   "name": "jirafficon",
-  "version": "1.0.38",
+  "version": "1.0.39",
   "main": "index.js",
   "scripts": {
     "generate-icons": "node node_tasks/generateIcons.js",
