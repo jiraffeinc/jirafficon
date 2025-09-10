@@ -7,6 +7,6 @@
     "view-jirafficon": "open docs/index.html"
   },
   "devDependencies": {
-    "webfonts-generator": "^0.4.0"
+    "webfonts-generator": "^0.5.0"
   }
 }
